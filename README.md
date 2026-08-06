@@ -38,6 +38,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
