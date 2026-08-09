@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
