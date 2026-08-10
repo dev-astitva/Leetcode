@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -69,4 +70,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
 <!---LeetCode Topics End-->
