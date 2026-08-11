@@ -9,16 +9,19 @@
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
