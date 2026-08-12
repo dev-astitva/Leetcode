@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/dev-astitva/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -51,6 +52,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -81,4 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 <!---LeetCode Topics End-->
