@@ -11,6 +11,7 @@
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
