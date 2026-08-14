@@ -98,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/dev-astitva/Leetcode/tree/main/Bash/Easy/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
