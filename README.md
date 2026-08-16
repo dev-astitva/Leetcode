@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/dev-astitva/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
@@ -62,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +108,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/dev-astitva/Leetcode/tree/main/Bash/Easy/0195-tenth-line/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
