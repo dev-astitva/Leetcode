@@ -14,6 +14,7 @@
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -44,6 +45,7 @@
 | [0054-spiral-matrix](https://github.com/dev-astitva/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
