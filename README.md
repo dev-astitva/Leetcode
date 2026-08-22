@@ -63,6 +63,7 @@
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
