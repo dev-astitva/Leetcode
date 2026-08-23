@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
+| [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -131,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +147,8 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
