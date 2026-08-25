@@ -18,6 +18,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
