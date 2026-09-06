@@ -12,6 +12,7 @@
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -83,6 +85,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
@@ -128,10 +131,12 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -180,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
