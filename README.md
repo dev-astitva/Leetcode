@@ -23,6 +23,7 @@
 | [3046-split-the-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -38,6 +39,7 @@
 | [3046-split-the-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3046-split-the-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -91,6 +93,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
