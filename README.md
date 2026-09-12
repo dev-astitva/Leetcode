@@ -10,6 +10,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
+| [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1720-decode-xored-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1720-decode-xored-array/) | Easy |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -200,4 +202,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
