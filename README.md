@@ -10,6 +10,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -150,6 +151,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
@@ -209,5 +211,18 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
