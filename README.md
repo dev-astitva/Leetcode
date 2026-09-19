@@ -82,6 +82,7 @@
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
@@ -234,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
