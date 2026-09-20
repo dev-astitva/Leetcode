@@ -65,6 +65,7 @@
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
 | [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
