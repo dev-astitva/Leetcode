@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0206-reverse-linked-list](https://github.com/dev-astitva/Leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 ## Prefix Sum
@@ -207,6 +208,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/dev-astitva/Leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
