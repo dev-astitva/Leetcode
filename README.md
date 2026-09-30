@@ -12,6 +12,7 @@
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dev-astitva/Leetcode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
+| [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -255,8 +257,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
