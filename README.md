@@ -86,6 +86,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
@@ -270,4 +272,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
