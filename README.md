@@ -140,6 +140,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -244,11 +245,13 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
