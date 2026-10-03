@@ -109,6 +109,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -246,12 +248,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
