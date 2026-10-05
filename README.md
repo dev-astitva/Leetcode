@@ -147,6 +147,7 @@
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
@@ -204,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bucket Sort
@@ -255,6 +257,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
@@ -264,6 +267,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
