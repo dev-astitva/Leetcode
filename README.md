@@ -118,12 +118,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
@@ -136,6 +138,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
@@ -277,6 +280,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 ## Union-Find
