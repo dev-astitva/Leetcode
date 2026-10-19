@@ -20,6 +20,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0016-3sum-closest/) | Medium |
 | [0164-maximum-gap](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0164-maximum-gap/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/dev-astitva/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -144,6 +146,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
