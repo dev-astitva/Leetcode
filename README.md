@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0054-spiral-matrix](https://github.com/dev-astitva/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -213,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
