@@ -162,6 +162,7 @@
 | [0020-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0068-text-justification](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Hard/0068-text-justification/) | Hard |
+| [0344-reverse-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -215,6 +216,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0344-reverse-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
