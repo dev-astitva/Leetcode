@@ -17,6 +17,7 @@
 | [0622-design-circular-queue](https://github.com/dev-astitva/Leetcode/tree/main/Java/Medium/0622-design-circular-queue/) | Medium |
 | [0877-stone-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1720-decode-xored-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/dev-astitva/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -142,6 +144,7 @@
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0938-range-sum-of-bst/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
 | [3046-split-the-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3046-split-the-array/) | Easy |
 ## Backtracking
@@ -308,10 +312,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
