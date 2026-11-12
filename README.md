@@ -31,6 +31,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3046-split-the-array](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
