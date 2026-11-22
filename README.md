@@ -177,6 +177,7 @@
 | [1370-increasing-decreasing-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/1370-increasing-decreasing-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Medium/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/dev-astitva/Leetcode/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
